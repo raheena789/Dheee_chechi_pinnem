@@ -1,0 +1,6 @@
+{
+  "name": "dheee chechi pinnem",
+  "description": "A cozy home kitchen fridge opening counter with hilarious Malayalam comedy dialogues, interactive 3D home refrigerator, realistic sound effects, and snack surprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
